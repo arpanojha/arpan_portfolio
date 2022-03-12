@@ -10,4 +10,13 @@
 * It is not limited to 3X3 board. 
 * AI plays using alpha beta pruning search for optimal next move. 
 
+## [USA route finder](https://github.com/arpanojha/Artificial_Intelligence/tree/main/USA_route_finder)
+* Lets you choose between best route based on shortest distance, time, least number of traffic lights.
+* Map is based on all cities in USA and Canada. 
+* This performs similar to Google Maps. 
+* AI uses A star search. 
+
+## [MNIST](https://github.com/arpanojha/MNIST/tree/master/SVM)
+* SVM classifier trained on MNIST dataset provides 98% accuracy. 
+
 
