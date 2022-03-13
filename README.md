@@ -19,4 +19,14 @@
 ## [MNIST](https://github.com/arpanojha/MNIST/tree/master/SVM)
 * SVM classifier trained on MNIST dataset provides 98% accuracy. 
 
+# Computer Science Projects
+## [Book reading filter](https://addons.mozilla.org/en-US/firefox/addon/sepia_filter/)
+* Mozilla Firefox addon for adjusting screen brightness. 
+* It adjusts screen brightness to make webpages resemble as old sheets of paper. 
 
+# Summer Internship 
+## Hindustan Aeronautics Limited May 2017
+### [Swerling model on fighter jet RCS](https://github.com/arpanojha/Swerling_Model) 
+* Matlab based tool precomputes plane RCS using standard models.
+* Using this model and radar data the plane signature is identified even  when far away.
+* Extremely robust to gaussian noise. 
