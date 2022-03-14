@@ -1,6 +1,11 @@
 # arpan_portfolio
 
 # Data Science Projects
+## [Heart Attack Prediction](https://github.com/arpanojha/Artificial_Intelligence/tree/main/heart_attack_prediction)
+* Trained a competitive SVM and ANN model to make prediction on heart attack possibility in R. 
+* Obtained 83% real world accuracy.
+* EDA was done to check for relevance of parameters. 
+
 ## [Online shopping recommender](https://github.com/arpanojha/Artificial_Intelligence/tree/main/Market_basket_optimization)
 * A amazon type recommender system for groceries
 * Suggests the most commonly bought iterm pairs. 
