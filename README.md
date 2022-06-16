@@ -1,7 +1,7 @@
 # arpan_portfolio
 
 # Data Science Projects
-## [Detecting Chickens Using Social Media Data- ongoing research]()
+## [Detecting Chickens Using Social Media Data- ongoing research](https://github.com/arpanojha/computer-vision/blob/main/final_project/poster.pdf)
 * Surveyed 10 transformer and neural network models to analyze state of the art techniques in identifying chicken data.
 * Classification of chicken against other images was achiceved at 99% accuracy and game v/s farm fowl was classified with 95% accuracy. 
 * Classification algorithms from Alexnet in 2012 to convnext(2021) was surveyed. 
