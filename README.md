@@ -1,20 +1,29 @@
 # arpan_portfolio
 
 # Data Science Projects
+## SQL  
+## [Interactive database for Admissions].  
+* Designed a scalable automatic trigger based enroll/wait-list system for courses offered at Indiana University using SQL.  
+  
+## Computer Vision
 ## [Detecting Chickens Using Social Media Data- ongoing research](https://github.com/arpanojha/computer-vision/blob/main/final_project/poster.pdf)
 * Surverying vision transformers(ViT), residual networks and other neual network methods in identifying and classifying game vs farm chickens from internet data.   
 * Classification of chicken against other images was achiceved at 99% accuracy and game v/s farm fowl was classified with 95% accuracy. 
 * Classification algorithms from Alexnet in 2012 to convnext(2021) was surveyed. 
 * Developed in collaboration with Dr. Maurice Pitesky from Avian Sciences Graduate Group at University of California, Davis. 
-
+  
+  
+## Natural Language Processing
 ## [Bloomington Oral History Project-private now](https://github.com/arpanojha/bohp)
 * FADS fellowship to study data science approaches to qualitative coding on a 30M interview dataset.   
 * Gather sociological implications and insights into general trends over the years.   
 * Worked in collaboration with Dr. Emily Meanwell, Social Science Research Commons, Indiana University.
-
+   
+## Data Analytics and Busines Intelligence. 
 ## [Home credit defaulter rate prediction]()
 * Analyze over 20000 bank customer data on credit loans and defaulters.
 * Developed a 93% accurate model by investigating 143 parameters and 30 tuned hyper parameters over 10 different classification algorithms.
+
 
 ## [Heart Attack Prediction(classification)](https://github.com/arpanojha/Artificial_Intelligence/tree/main/heart_attack_prediction)
 * Trained a competitive SVM and ANN model to make prediction on heart attack possibility in R. 
@@ -24,7 +33,9 @@
 ## [Online shopping recommender(association rule learning)](https://github.com/arpanojha/Artificial_Intelligence/tree/main/Market_basket_optimization)
 * A amazon type recommender system for groceries. 
 * Suggests the most commonly bought iterm pairs. 
-
+  
+  
+## Artificial Intelligence. 
 ## [Tic Tac Toe(AI)](https://github.com/arpanojha/Artificial_Intelligence/tree/main/misere_tic_tac_toe)
 * Play tic tac toe against AI 
 * It is not limited to 3X3 board. 
@@ -40,6 +51,19 @@
 * SVM classifier trained on MNIST dataset provides 98% accuracy. 
 
 # Computer Science Projects
+  
+## Startups. 
+## [Clevercart](https://www.clevercart.app)  
+* Developed android and IOS mobile application in REST API on AWS, ReactJS, and SQL to optimize grocery delivery and eating healthy.     
+  
+## [Concilium]()   
+### Scraper. 
+* Created a web scrapper tool for scraping linkedin data to identify patterns in career paths. Used this data to develop a career recommendation system.
+* Developed using beautiful soup, selenium.  
+### Chatbot   
+* Developed a customized chatbot aimed at helping guidance counselors as an assistant. This chatbot aims to improve mental health of students.   
+* Developed using BERT/GPT-3,pytorch and tensorflow.   
+  
 ## Java Script Projects   
 ## [Flash Card maker](https://arpanojha.github.io/flash_cards/)  
 * Javascript website to create memory improving flash cards.    
