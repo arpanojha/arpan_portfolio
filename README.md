@@ -1,4 +1,7 @@
-# arpan_portfolio
+# Arpan Ojha
+# Portfolio
+## Updated 11/28/2022 
+## Contact: Ph: 8128024140 || email: arojha@iu.edu || Linkedin :  
 
 # Data Science Projects
 ## SQL  
