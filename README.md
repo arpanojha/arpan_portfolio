@@ -2,14 +2,15 @@
 
 # Data Science Projects
 ## [Detecting Chickens Using Social Media Data- ongoing research](https://github.com/arpanojha/computer-vision/blob/main/final_project/poster.pdf)
-* Surveyed 10 transformer and neural network models to analyze state of the art techniques in identifying chicken data.
+* Surverying vision transformers(ViT), residual networks and other neual network methods in identifying and classifying game vs farm chickens from internet data.   
 * Classification of chicken against other images was achiceved at 99% accuracy and game v/s farm fowl was classified with 95% accuracy. 
 * Classification algorithms from Alexnet in 2012 to convnext(2021) was surveyed. 
-* Model o be used by University of California, Irvine researchers in helping curb rampant avian flu amongst chickens. 
+* Developed in collaboration with Dr. Maurice Pitesky from Avian Sciences Graduate Group at University of California, Davis. 
 
 ## [Bloomington Oral History Project-private now](https://github.com/arpanojha/bohp)
-* Analyze over 900 histroical interview data from Indiana University Alumni.  
-* Gather sociological implications and insights into general trends over the years. 
+* FADS fellowship to study data science approaches to qualitative coding on a 30M interview dataset.   
+* Gather sociological implications and insights into general trends over the years.   
+* Worked in collaboration with Dr. Emily Meanwell, Social Science Research Commons, Indiana University.
 
 ## [Home credit defaulter rate prediction]()
 * Analyze over 20000 bank customer data on credit loans and defaulters.
@@ -21,7 +22,7 @@
 * EDA was done to check for relevance of parameters. 
 
 ## [Online shopping recommender(association rule learning)](https://github.com/arpanojha/Artificial_Intelligence/tree/main/Market_basket_optimization)
-* A amazon type recommender system for groceries
+* A amazon type recommender system for groceries. 
 * Suggests the most commonly bought iterm pairs. 
 
 ## [Tic Tac Toe(AI)](https://github.com/arpanojha/Artificial_Intelligence/tree/main/misere_tic_tac_toe)
