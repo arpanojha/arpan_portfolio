@@ -1,6 +1,6 @@
 # Arpan Ojha
 # Portfolio
-## Updated 11/28/2022 
+## Updated 1/11/2023 
 ## Contact: Ph: 8128024140 || email: arojha@iu.edu || Linkedin :  
 # Contents
 [SQL](#SQL)   [Computer Vision](#Computer Vision).   [Natural Language Processing](#Natural Language Processing)
