@@ -2,7 +2,8 @@
 # Portfolio
 ## Updated 11/28/2022 
 ## Contact: Ph: 8128024140 || email: arojha@iu.edu || Linkedin :  
-{:toc}
+# Contents
+[SQL](#SQL)   [Computer Vision](#Computer Vision).   [Natural Language Processing](#Natural Language Processing)
 # Data Science Projects
 ## SQL  
 
