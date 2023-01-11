@@ -2,7 +2,7 @@
 # Portfolio
 ## Updated 11/28/2022 
 ## Contact: Ph: 8128024140 || email: arojha@iu.edu || Linkedin :  
-
+{:toc}
 # Data Science Projects
 ## SQL  
 
@@ -28,7 +28,7 @@
 * Worked in collaboration with Dr. Emily Meanwell, Social Science Research Commons, Indiana University.
    
 ## Data Analytics and Busines Intelligence. 
-## [Salesforce einstain prediction builder]([)](https://github.com/arpanojha/einstein_prediction_builder/blob/main/EPB%20Team%201%20Final%20Presentation.pdf)
+## [Salesforce einstain prediction builder]](https://github.com/arpanojha/einstein_prediction_builder/blob/main/EPB%20Team%201%20Final%20Presentation.pdf)
 * Improved upon the einstein prediction builder no code machine learning tool for Salesforce.
 * Developed an improved design collaboratively over four iterations of SDLC to improve user experience by 75%. 
 
