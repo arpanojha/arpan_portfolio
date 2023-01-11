@@ -3,8 +3,9 @@
 ## Updated 1/11/2023 
 ## Contact: Ph: 8128024140 || email: arojha@iu.edu || Linkedin :  
 # Contents
-* [SQL](#SQL)  [Computer Vision](#Computer-Vision)   [Natural Language Processing](#Natural-Language-Processing)   [Data Analytics and Busines Intelligence](#Data-Analytics-and-Busines-Intelligence)   [Artificial Intelligence](#Artificial-Intelligence)
-* [Startups](#Startups)  [Java Script Projects](#Java-Script-Projects)
+* [SQL](#sql)  [Computer Vision](#computer-vision)   [Natural Language Processing](#natural-language-processing)   [Data Analytics and Busines Intelligence](#data-analytics-and-busines-intelligence)   [Artificial Intelligence](#artificial-intelligence)
+* [Startups](#startups)  [Java Script Projects](#java-script-projects)
+* [Summer Internship](#summer-internship)
 # Data Science Projects
 ## SQL  
 
