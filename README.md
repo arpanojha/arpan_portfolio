@@ -5,6 +5,11 @@
 
 # Data Science Projects
 ## SQL  
+
+## [Wishlist api].  
+* Developed the API for a wishlist system from scratch using PERN stack.
+* API deployed on AWS cloud on elastic beanstalk and lambda.  
+
 ## [Interactive database for Admissions].  
 * Designed a scalable automatic trigger based enroll/wait-list system for courses offered at Indiana University using SQL.  
   
@@ -23,6 +28,10 @@
 * Worked in collaboration with Dr. Emily Meanwell, Social Science Research Commons, Indiana University.
    
 ## Data Analytics and Busines Intelligence. 
+## [Salesforce einstain prediction builder]([)](https://github.com/arpanojha/einstein_prediction_builder/blob/main/EPB%20Team%201%20Final%20Presentation.pdf)
+* Improved upon the einstein prediction builder no code machine learning tool for Salesforce.
+* Developed an improved design collaboratively over four iterations of SDLC to improve user experience by 75%. 
+
 ## [Home credit defaulter rate prediction]()
 * Analyze over 20000 bank customer data on credit loans and defaulters.
 * Developed a 93% accurate model by investigating 143 parameters and 30 tuned hyper parameters over 10 different classification algorithms.
